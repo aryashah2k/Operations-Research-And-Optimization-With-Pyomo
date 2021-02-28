@@ -18,7 +18,11 @@ Hello there👋, Welcome to this amazing, well maintained and detailed repositor
 |1.|---|---|
 To be updated soon!
 
-
+# Helpful Resources:
+|No.|Resource Name|Relevant Links|
+|--|-----|-----|
+|1.|---|---|
+To be updated Soon!
 
 #P.S: The Repository Is Newly Created And Under Heavy Construction!!
 
