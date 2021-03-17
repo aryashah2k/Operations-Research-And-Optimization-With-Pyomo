@@ -21,7 +21,7 @@ To be updated soon!
 # Helpful Resources:
 |No.|Resource Name|Relevant Links|
 |--|-----|-----|
-|1.|---|---|
+|1.|E-Book-Pyomo Optimization Modeling in Python[Springer]|<a href="https://drive.google.com/file/d/1oBIjZskXn0Mfghwo32T24wmHCpgqXGNJ/view?usp=sharing">Click to View</a>|
 To be updated Soon!
 
 #P.S: The Repository Is Newly Created And Under Heavy Construction!!
